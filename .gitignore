@@ -14,7 +14,6 @@ dist-ssr
 pnpm-lock.yaml
 bun.lockb
 config.json
-.env
 
 !.vscode/extensions.json
 .idea
